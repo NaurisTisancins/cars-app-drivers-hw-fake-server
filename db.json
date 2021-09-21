@@ -1,22 +1,10 @@
 {
   "staff": [
     {
-      "id": 1,
-      "firstName": "James",
-      "lastName": "Sherry",
-      "email": "james.sherry@thejump.tech"
-    },
-    {
-      "id": 2,
-      "firstName": "Robert",
-      "lastName": "Sherry",
-      "email": "robert.sherry@thejump.tech"
-    },
-    {
-      "id": 3,
-      "firstName": "Katie",
-      "lastName": "Smith",
-      "email": "katie.smith@thejump.tech"
+      "firstName": "nauris",
+      "lastName": "tisancins",
+      "email": "nauristisanchins@gmail.com",
+      "id": 7
     }
   ]
 }
